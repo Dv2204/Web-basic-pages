@@ -19,6 +19,13 @@
     border-top: 0PX;
 }
 
+.center {
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform : translate(-50%, -50%);
+}
+
 .text {
     color: white;
     text-shadow: 3px 3px 3px lightblue;
